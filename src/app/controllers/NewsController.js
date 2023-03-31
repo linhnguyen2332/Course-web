@@ -1,4 +1,4 @@
-                        class NewsController {
+class NewsController {
     index(req, res) {
         res.render('search');
     }
